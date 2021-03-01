@@ -1,0 +1,8 @@
+com/example/smoothcaranimation/BuildConfig.java
+ com.example.smoothcaranimation.BuildConfig
+com/example/smoothcaranimation/MainActivity.java
+ com.example.smoothcaranimation.MainActivity
+ com.example.smoothcaranimation.MainActivity$1
+ com.example.smoothcaranimation.MainActivity$2
+ com.example.smoothcaranimation.MainActivity$3
+ com.example.smoothcaranimation.MainActivity$4
